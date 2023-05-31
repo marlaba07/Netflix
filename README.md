@@ -21,4 +21,6 @@ Dentro de React utilicé Hooks, React Icons, React Router, etc. Que me ayudaron 
 Las API REST son ampliamente utilizadas en el desarrollo de aplicaciones web y móviles, ya que proporcionan una forma flexible y escalable de comunicación entre sistemas.
 La que yo utilicé para realizar este proyecto es TMDb API, la cual me permitió acceder a una gran cantidad de información relacionada con películas y programas de televisión
 
+Despliegue en: https://movies-mdp.netlify.app/
+
 
